@@ -16,5 +16,6 @@ namespace Assignment5.Models
         public string ISBN { get; set; }
         public string Category { get; set; }
         public float Price { get; set; }
+        public int PageNumbers { get; set; }
     }
 }

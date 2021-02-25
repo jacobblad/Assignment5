@@ -42,6 +42,66 @@ namespace Assignment5.Models
                         ISBN = "978-1591847984",
                         Category = "Non-Fiction, Business",
                         Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
+                    },
+
+                    new Project
+                    {
+                        Title = "The Virgin Way",
+                        Author = "Richard Branson",
+                        Publisher = "Portfolio",
+                        ISBN = "978-1591847984",
+                        Category = "Non-Fiction, Business",
+                        Price = 29.16F
                     }
 
                 );
